@@ -6,4 +6,4 @@
 ## demo 
 
 
-![](demo\breakout.gif)
+![](demo/breakout.gif)
